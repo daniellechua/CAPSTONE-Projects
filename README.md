@@ -4,6 +4,5 @@ Showcase of my CAPSTONE project and individual projects completed for my Data Sc
 The individual projects were my first attempt to demonstrate my understanding after completion of each module of the course. 
 
 	Presentation 1 - questioning skills
-
 	Presentation 2 - questioning skills and data sourcing from API
 
